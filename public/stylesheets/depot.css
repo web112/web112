@@ -6,7 +6,7 @@
         padding: 1em;
         margin-bottom: 2em;
         background-color: #f0f0f0;
-        font: bold smaller sans-serif;
+        font: bold small sans-serif;
 }
 
 
@@ -148,4 +148,8 @@
 #side a{
 	color: #bfb;
 	font-size: small;
+}
+
+#store .entry form,#store .entry form div{
+	display:inline;
 }
